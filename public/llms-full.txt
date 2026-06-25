@@ -2,13 +2,13 @@
 
 A fundraising platform dedicated to helping individuals who cannot afford weight-loss and metabolic surgeries, specifically gastric sleeve/bypass procedures and fat-burning treatments. The site aims to connect donors with patients in need, creating a community of support around health transformation and life-changing medical procedures.
 
-Source: https://example.com
+Source: https://toharhashmana.zappy5.app
 
 ---
 
 ## שנו חיים בניתוח קיצור קיבה — טוהר השמנה
 
-URL: https://example.com
+URL: https://toharhashmana.zappy5.app
 Description: הצטרפו למסע של תקווה: תרמו לאנשים שאינם יכולים לממן ניתוח בריאטרי ושריפת שומן. ביחד נעניק חיים חדשים ובריאים יותר. התחילו לתת עוד היום!
 
 שנו חיים בניתוח קיצור קיבה — טוהר השמנה
@@ -653,7 +653,7 @@ Description: הצטרפו למסע של תקווה: תרמו לאנשים שאי
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://toharhashmana.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -906,7 +906,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://toharhashmana.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1168,7 +1168,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://toharhashmana.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1449,7 +1449,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה על פנייתך
 
-URL: https://example.com/thank-you
+URL: https://toharhashmana.zappy5.app/thank-you
 Description: טוהר השמנה - תודה על פנייתך
 
 תודה על פנייתך
